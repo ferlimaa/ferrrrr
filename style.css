@@ -1,8 +1,8 @@
 :root{
-    --fundo: #495b16;
+    --fundo: #5b1655;
     --cor-text: #daa86e;
     --cor-frente-cartao: #ffffff;
-    --cor-verso-cartao: #1c141b;
+    --cor-verso-cartao: #c047b0;
 }
 
 body{
